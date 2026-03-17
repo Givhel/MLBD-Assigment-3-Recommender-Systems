@@ -20,7 +20,11 @@ This project implements various recommender system techniques using the MovieLen
 ## 📂 Dataset
 
 MovieLens Dataset
+
+The dataset is not included in this repository due to size constraints. Please download it from the link above and place it in the project directory before running the notebook.
+
 It can be downloaded using this link:[MovieLens Dataset](https://grouplens.org/datasets/movielens/)
+
 
 ---
 
