@@ -20,6 +20,7 @@ This project implements various recommender system techniques using the MovieLen
 ## 📂 Dataset
 
 MovieLens Dataset
+It can be downloaded using this link:[MovieLens Dataset](https://grouplens.org/datasets/movielens/)
 
 ---
 
